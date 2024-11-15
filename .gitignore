@@ -18,3 +18,4 @@ dist-newstyle/
 *.errors
 
 cabal.project.local*
+.direnv
